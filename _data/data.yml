@@ -5,12 +5,12 @@
 sidebar:
     position: right # position of the sidebar : left or right
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Young Sun Park
     tagline: Data Scientist & Dentistry
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: my_profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: ddspys@gmail.com
@@ -95,7 +95,7 @@ certifications:
       list:
         - name: ADsP(Advanced Data Analytics Semi-Professional)
           start: 2023
-          end: 2023
+          end:
           organization: Korea Data Agency
           credentialid: 036015032
           credentialurl: https://www.kdata.or.kr/
@@ -117,8 +117,8 @@ projects:
     intro: 
     assignments:
       - title: Dental Automation
-        link: "#hook"
-        tagline: "Full automation of dental treatment in future"
+        link: "#"
+        tagline: "Full automation of dental treatment in future."
 
       - title: Question Bank Website by Shiny
         link: "#"
