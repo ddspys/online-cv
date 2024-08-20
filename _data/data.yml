@@ -17,7 +17,7 @@ sidebar:
     phone: (+82)10-5825-4408
     timezone: Asia/Seoul # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
-    website: # https://example.com/ # Include the full website URL, including "http://" or "https://".
+    website: https://ddspys.github.io/blog/ # https://example.com/ # Include the full website URL, including "http://" or "https://".
     linkedin: young-sun-park-589242272
     xing: # alandoe
     github: ddspys
@@ -40,7 +40,7 @@ sidebar:
           level: Native
 
         - idiom: English
-          level: Intermediate
+          level: Conversational
 
     interests:
       title: Interests
@@ -63,10 +63,11 @@ education:
         time: 2016 - 2019
         details: |
           
-      - degree: BSc in Electronic Engineering (Dropout)
+      - degree: BSc in Electronic Engineering
         university: Hanyang University
         time: 2019 - 2022
-        details: |
+        details: | 
+        (Dropout)
 
       - degree: Doctor of Dental Surgery
         university: Chosun University
