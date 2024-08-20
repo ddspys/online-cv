@@ -51,9 +51,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Hello, I am Park Young-sun, an engineer and prospective dentist who dreams of dental innovation.
+      Hello, I am Young Sun Park, an engineer and prospective dentist who dreams of dental innovation.
        I am studying various fields to create new values in the recent emerging trend of digital dentistry.
-        Based on data, I would like to achieve the meaning of Hongik Ingan(弘益人間, To Broadly Benefit Humanity/Devotion
+        Based on data, I would like to achieve the meaning of Hongik Ingan (弘益人間, To Broadly Benefit Humanity/Devotion
          to Human Welfare) through more precise, more convenient, and more universal treatment.
 education:
     title: Education
@@ -80,17 +80,14 @@ experiences:
         time: 2024 - 2024
         company: Zarathu, Seoul
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          For two months, I conducted a data scientist internship at Zarathu.
+           During medical research, Zarathu is creating new value in medical
+            research by designing and performing experimental methods or statistical
+             techniques that are difficult for researchers to perform on their own.
+              Here, I supported the writing of medical papers by generating models
+               for predicting diseases through genetic mutations and interpreting their results.
+                I also conducted survival analysis and analyzed clinical outcomes based
+                 on data derived from clinical trials of new drugs.
 
 
 certifications:
@@ -121,23 +118,11 @@ projects:
     assignments:
       - title: Dental Automation
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Full automation of dental treatment in future"
 
       - title: Question Bank Website by Shiny
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "A website for collecting exam question by students."
 
 skills:
     title: Skills &amp; Proficiency
